@@ -1,3 +1,3 @@
 Less-to-SCSS
 =========
-Is this possible? ¯\_(ツ)_/¯ 
+Is this possible? ¯\\_(ツ)_/¯ 
